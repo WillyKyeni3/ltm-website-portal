@@ -7,16 +7,19 @@ Official website and digital student application hub for **Life Transforming Min
 ## 📸 Project Gallery
 
 ### Home Page
-![LTM Home Page](assets/home-page.png)
+![LTM Home Page](assets/Home.jpeg)
 
-### Course Curriculum (Desktop)
-![Course Curriculum](assets/course-curriculum.png)
+### What We Do
+![What We Do](assets/What-we-do.jpeg)
+
+### School (Desktop)
+![School](assets/School.jpeg)
 
 ### Digital Application Hub (Microsoft Forms)
-![Apply Now Page](assets/apply-now.png)
+![Apply Now Page](assets/Apply.jpeg)
 
 ### Mobile Responsiveness
-<img src="assets/mobile-view.png" alt="LTM Mobile View" width="320">
+<img src="assets/home2.jpeg" alt="LTM Mobile View" width="320">
 
 ---
 
@@ -62,8 +65,9 @@ The LTM website serves as both the ministry's public digital presence and an ope
 
 ```text
 ├── assets/
-│   ├── home-page.png
-│   ├── course-curriculum.png
-│   ├── apply-now.png
+│   ├── Home.jpeg
+│   ├── What-we-do.jpeg
+│   ├── School.jpeg
+|   ├── Apply.jpeg 
 │   └── mobile-view.png
 └── README.md
