@@ -2,6 +2,8 @@
 
 Official website and digital student application hub for **Life Transforming Ministries (LTM)**. Built on WordPress with a focus on clean design, mobile responsiveness, low maintenance overhead, and seamless Microsoft 365 integration.
 
+🔗 **Live Website:** [lifetministries.org](https://lifetministries.org)
+
 ---
 
 ## 📸 Project Gallery
